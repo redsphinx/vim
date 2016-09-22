@@ -49,7 +49,7 @@ let g:calendar_google_task = 1
 "/// required
 
 call vundle#end()
-filetype indent on
+filetype plugin indent on
 
 """}}}
 
