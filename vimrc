@@ -27,7 +27,8 @@ Plugin 'pydave/vim-hiinterestingword'
 Plugin 'mikewest/vimroom' 
 nnoremap <Leader>vr :VimroomToggle<CR>
 
-Plugin 'Valloric/YouCompleteMe'
+"seems to get stuck when installing
+"Plugin 'Valloric/YouCompleteMe'
 
 Plugin 'Raimondi/delimitMate'
 
